@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add button with text 'Nighout'\", \"checked\": true}, {\"feature\": \"Customize button color options\", \"checked\": false}, {\"feature\": \"Add button hover effects\", \"checked\": false}, {\"feature\": \"Enable button icon addition\", \"checked\": false}, {\"feature\": \"Implement button size adjustments\", \"checked\": false}], \"input_token_count\": 247, \"output_token_count\": 85, \"time_taken\": \"0:00:01.263719\"}",
+        "timestamp": "03092024102542",
+        "message_id": "guest03092024102533"
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What style do you want the 'Nighout' button to have (e.g., color, shape, font)?\", \"option1\": \"Standard button style\", \"option2\": \"Custom style with specific colors and fonts\"}, {\"question 2\": \"Where would you like the 'Nighout' button to be positioned on the screen?\", \"option1\": \"Top of the page\", \"option2\": \"Bottom of the page\"}], \"input_token_count\": 293, \"output_token_count\": 105, \"time_taken\": \"0:00:01.675460\"}",
         "timestamp": "03092024102539",
