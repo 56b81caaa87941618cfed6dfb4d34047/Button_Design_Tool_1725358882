@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_acknowledge",
+        "content": "Sure, I'll add a button with the text 'Nightout'.",
+        "message_id": "guest03092024102533",
+        "timestamp": "03092024102535",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a button with text Nighout",
         "message_id": "guest03092024102533",
