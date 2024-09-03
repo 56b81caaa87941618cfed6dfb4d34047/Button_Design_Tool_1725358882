@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What style do you want the 'Nighout' button to have (e.g., color, shape, font)?\", \"option1\": \"Standard button style\", \"option2\": \"Custom style with specific colors and fonts\"}, {\"question 2\": \"Where would you like the 'Nighout' button to be positioned on the screen?\", \"option1\": \"Top of the page\", \"option2\": \"Bottom of the page\"}], \"input_token_count\": 293, \"output_token_count\": 105, \"time_taken\": \"0:00:01.675460\"}",
+        "timestamp": "03092024102539",
+        "message_id": "guest03092024102533"
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I'll add a button with the text 'Nightout'.",
         "timestamp": "03092024102535",
